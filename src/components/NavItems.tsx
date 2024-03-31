@@ -60,7 +60,7 @@ const NavItems: FC<NavItemsProps> = () => {
             {isStickyAtTop && (
               <Link
                 href={"/"}
-                className={`w-24 fill-white transition-opacity duration-500 ease-in-out ${
+                className={`w-24 fill-white transition-opacity duration-1000 ease-in-out ${
                   isStickyAtTop ? "opacity-100" : "opacity-0"
                 }`}
               >
