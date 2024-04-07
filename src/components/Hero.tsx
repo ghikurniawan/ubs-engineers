@@ -12,14 +12,13 @@ const Hero: FC<HeroProps> = () => {
           Engineers
         </h1>
       </div>
-      <div className="absolute w-full h-full bg-black opacity-30 z-10" />
+      {/* <div className="absolute w-full h-full bg-black opacity-30 z-10" /> */}
       <div className="absolute bottom-0 w-full h-2 bg-secondary z-10" />
       <Image
-        src={"https://ik.imagekit.io/ikurniawan/dump/tr:w-600:h-300/hotel.Jpeg?updatedAt=1712459787704"}
+        src={"https://ik.imagekit.io/ikurniawan/dump/tr:w-1200:h-300/hotel.Jpeg?updatedAt=1712459787704"}
         fill
         className="object-cover"
         priority={true}
-        sizes="(max-width: 1080px) 100vw, 33vw"
         alt={"Hero image"}
       />
     </div>
