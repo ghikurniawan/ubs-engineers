@@ -46,7 +46,7 @@ const Services: FC<ServicesProps> = () => {
       <div className="w-full max-w-screen-lg mx-auto grid grid-cols-2 md:grid-cols-3 gap-4 pt-4">
         <AspectRatio ratio={4 / 3}>
           <Image
-            src="/img/hotel.jpeg"
+            src="https://ik.imagekit.io/ikurniawan/dump/tr:w-600:h-300/hotel.Jpeg?updatedAt=1712459787704"
             alt="Image"
             fill
             sizes="(max-width: 1080px) 100vw, 33vw"
@@ -55,7 +55,7 @@ const Services: FC<ServicesProps> = () => {
         </AspectRatio>
         <AspectRatio ratio={4 / 3}>
           <Image
-            src="/img/hotel.jpeg"
+            src="https://ik.imagekit.io/ikurniawan/dump/tr:w-600:h-300/hotel.Jpeg?updatedAt=1712459787704"
             alt="Image"
             fill
             sizes="(max-width: 1080px) 100vw, 33vw"
@@ -64,7 +64,7 @@ const Services: FC<ServicesProps> = () => {
         </AspectRatio>
         <AspectRatio ratio={4 / 3}>
           <Image
-            src="/img/hotel.jpeg"
+            src="https://ik.imagekit.io/ikurniawan/dump/tr:w-600:h-300/hotel.Jpeg?updatedAt=1712459787704"
             alt="Image"
             fill
             sizes="(max-width: 1080px) 100vw, 33vw"
@@ -73,7 +73,7 @@ const Services: FC<ServicesProps> = () => {
         </AspectRatio>
         <AspectRatio ratio={4 / 3}>
           <Image
-            src="/img/hotel.jpeg"
+            src="https://ik.imagekit.io/ikurniawan/dump/tr:w-600:h-300/hotel.Jpeg?updatedAt=1712459787704"
             alt="Image"
             fill
             sizes="(max-width: 1080px) 100vw, 33vw"
@@ -82,7 +82,7 @@ const Services: FC<ServicesProps> = () => {
         </AspectRatio>
         <AspectRatio ratio={4 / 3}>
           <Image
-            src="/img/hotel.jpeg"
+            src="https://ik.imagekit.io/ikurniawan/dump/tr:w-600:h-300/hotel.Jpeg?updatedAt=1712459787704"
             alt="Image"
             fill
             sizes="(max-width: 1080px) 100vw, 33vw"
@@ -91,7 +91,7 @@ const Services: FC<ServicesProps> = () => {
         </AspectRatio>
         <AspectRatio ratio={4 / 3}>
           <Image
-            src="/img/hotel.jpeg"
+            src="https://ik.imagekit.io/ikurniawan/dump/tr:w-600:h-300/hotel.Jpeg?updatedAt=1712459787704"
             alt="Image"
             fill
             sizes="(max-width: 1080px) 100vw, 33vw"

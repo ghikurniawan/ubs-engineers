@@ -15,7 +15,7 @@ const Hero: FC<HeroProps> = () => {
       <div className="absolute w-full h-full bg-black opacity-30 z-10" />
       <div className="absolute bottom-0 w-full h-2 bg-secondary z-10" />
       <Image
-        src={"/img/hotel.jpeg"}
+        src={"https://ik.imagekit.io/ikurniawan/dump/tr:w-600:h-300/hotel.Jpeg?updatedAt=1712459787704"}
         fill
         className="object-cover"
         priority={true}
